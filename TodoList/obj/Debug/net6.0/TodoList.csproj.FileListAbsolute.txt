@@ -1,0 +1,15 @@
+/Users/ayushsri/Projects/TodoList/TodoList/bin/Debug/net6.0/TodoList
+/Users/ayushsri/Projects/TodoList/TodoList/bin/Debug/net6.0/TodoList.deps.json
+/Users/ayushsri/Projects/TodoList/TodoList/bin/Debug/net6.0/TodoList.runtimeconfig.json
+/Users/ayushsri/Projects/TodoList/TodoList/bin/Debug/net6.0/TodoList.dll
+/Users/ayushsri/Projects/TodoList/TodoList/bin/Debug/net6.0/TodoList.pdb
+/Users/ayushsri/Projects/TodoList/TodoList/obj/Debug/net6.0/TodoList.csproj.AssemblyReference.cache
+/Users/ayushsri/Projects/TodoList/TodoList/obj/Debug/net6.0/TodoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayushsri/Projects/TodoList/TodoList/obj/Debug/net6.0/TodoList.AssemblyInfoInputs.cache
+/Users/ayushsri/Projects/TodoList/TodoList/obj/Debug/net6.0/TodoList.AssemblyInfo.cs
+/Users/ayushsri/Projects/TodoList/TodoList/obj/Debug/net6.0/TodoList.csproj.CoreCompileInputs.cache
+/Users/ayushsri/Projects/TodoList/TodoList/obj/Debug/net6.0/TodoList.dll
+/Users/ayushsri/Projects/TodoList/TodoList/obj/Debug/net6.0/refint/TodoList.dll
+/Users/ayushsri/Projects/TodoList/TodoList/obj/Debug/net6.0/TodoList.pdb
+/Users/ayushsri/Projects/TodoList/TodoList/obj/Debug/net6.0/TodoList.genruntimeconfig.cache
+/Users/ayushsri/Projects/TodoList/TodoList/obj/Debug/net6.0/ref/TodoList.dll
